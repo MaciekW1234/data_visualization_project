@@ -36,7 +36,7 @@ All charts were exported with transparent backgrounds for clean integration into
 ```
 data_visualization_project/
 └── marriage/
-    ├── plakat.pdf                 # Final scientific poster (deliverable)
+    ├── plakat.pdf                 # Final scientific poster
     └── kod/                       # R scripts, one per visualization
         ├── barplot_table3.R       # Bar chart: care-seeking by marital status
         ├── countriesMarriage.R    # Country-level data preparation
